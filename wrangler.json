@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "weathered-wind-ec46",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "30e5da1f-b7a4-4543-b5ee-408c04d4e948",
+      "database_name": "purple-violet-9070-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
